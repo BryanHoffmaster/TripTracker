@@ -30,6 +30,12 @@ namespace TripTracker.APIBackService
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline. From top to bottom
+        /// <summary>
+        /// Startup.configure This method gets called by the runtime. Use this method to configure the HTTP request pipeline. 
+        /// From top to bottom
+        /// </summary>
+        /// <param name="app">Application of type IApplicationBuilder</param>
+        /// <param name="env">Current Enviornment of type IHostingEnvironment</param>
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
