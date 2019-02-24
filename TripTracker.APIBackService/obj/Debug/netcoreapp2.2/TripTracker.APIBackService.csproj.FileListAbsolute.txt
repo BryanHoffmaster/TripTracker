@@ -1,0 +1,15 @@
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\bin\Debug\netcoreapp2.2\TripTracker.APIBackService.deps.json
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\bin\Debug\netcoreapp2.2\TripTracker.APIBackService.runtimeconfig.json
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\bin\Debug\netcoreapp2.2\TripTracker.APIBackService.runtimeconfig.dev.json
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\bin\Debug\netcoreapp2.2\TripTracker.APIBackService.dll
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\bin\Debug\netcoreapp2.2\TripTracker.APIBackService.pdb
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\bin\Debug\netcoreapp2.2\TripTracker.APIBackService.XML
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.RazorAssemblyInfo.cache
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.RazorAssemblyInfo.cs
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.AssemblyInfo.cs
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.RazorTargetAssemblyInfo.cache
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.dll
+C:\Users\bryan\source\repos\TripTracker\TripTracker.APIBackService\obj\Debug\netcoreapp2.2\TripTracker.APIBackService.pdb

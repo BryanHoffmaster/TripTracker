@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TripTracker.APIBackService</name>
+    </assembly>
+    <members>
+        <member name="M:TripTracker.APIBackService.Models.Repository.Update(TripTracker.APIBackService.Models.Trip)">
+            <summary>
+            This is a summary
+            </summary>
+            <param name="tripToUpdate">Object of type Trip</param>
+        </member>
+        <member name="M:TripTracker.APIBackService.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services">Services to be added of type IServiceCollection</param>
+        </member>
+        <member name="M:TripTracker.APIBackService.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            Startup.configure This method gets called by the runtime. Use this method to configure the HTTP request pipeline. 
+            From top to bottom
+            </summary>
+            <param name="app">Application of type IApplicationBuilder</param>
+            <param name="env">Current Enviornment of type IHostingEnvironment</param>
+        </member>
+    </members>
+</doc>
